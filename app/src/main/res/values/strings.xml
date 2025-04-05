@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Gestion Étudiants</string>
+    <string name="splash_title">Gestion des Étudiants</string>
+    <string name="splash_subtitle">Application de gestion des données étudiantes</string>
+</resources>
